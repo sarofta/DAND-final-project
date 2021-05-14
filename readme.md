@@ -7,6 +7,7 @@
 The document explores data for an online food delivery application, exploring about 1m orders for company's own delivery or pickup service offered in two weeks in march 2021 in 14 different cities of Malaysia. the data shows different attributes of the orders such as order id, payment type of the order, city and zone where the order was made and delivery type of the orders. The is information on the daily orders of the vendor as well as the amount of order for a specific order. whether the order was customers first order, whether the order was failed or successful as well as whether a voucher was used to complete the purchase were all gathered.
 
 The data has a private source  and is confidential.
+The data can be found : https://drive.google.com/file/d/1Qg-aKYTTYc-SWzJq7lPlPXTtxvbpo_AL/view?usp=sharing
 
 
 
